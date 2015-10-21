@@ -6,7 +6,8 @@ A collection of useful Dart libraries maintained by the Quiver team.
 Contributing
 ======
 
-You can find our guidelines for contributing code in [CONTRIBUTING].
+You can find our guidelines for contributing code in
+[CONTRIBUTING](CONTRIBUTING.md).
 
 Packages
 ======
