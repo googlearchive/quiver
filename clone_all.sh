@@ -14,6 +14,7 @@ REPOS="quiver_async \
   quiver_io \
   quiver_iterables \
   quiver_mirrors \
+  quiver_optional \
   quiver_pattern \
   quiver_strings \
   quiver_time"
