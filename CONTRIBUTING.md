@@ -19,7 +19,7 @@ the process as smooth as possible, we request the following:
      (see above) before sending your pull request. It's quick, we promise!
    * Have test cases for your changes and ensure that the existing ones pass in
      checked mode.
-   * Run your changes through `dartformat`. Follow the installation instructions
+   * Run your changes through `dartfmt`. Follow the installation instructions
      in the [dart_style](https://github.com/dart-lang/dart_style) README for
      more info.
    * Squash your commits into a single commit with a good description. You can
