@@ -8,7 +8,6 @@ set -e
 REPOS="quiver_async \
   quiver_cache \
   quiver_check \
-  quiver_clock \
   quiver_collection \
   quiver_hashcode \
   quiver_io \
