@@ -1,3 +1,7 @@
+# DEPRECATED
+
+See https://pub.dev/packages/quiver instead!
+
 What is Quiver?
 ======
 
